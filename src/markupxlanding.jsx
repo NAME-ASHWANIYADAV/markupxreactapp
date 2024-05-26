@@ -71,10 +71,10 @@ const MarkupXLanding = () => {
           <div className="e">e</div>
           <img className="curve-text-icon" loading="lazy" alt="" src="./public/curve-text@2x.png" />
         </div>
-        <img className="artboard-1-copy-2-100-removebg-icon" loading="lazy" alt=""
+        {/* <img className="artboard-1-copy-2-100-removebg-icon" loading="lazy" alt=""
           src="./public/artboard-1-copy-2100removebgpreview-1@2x.png" />
         <img className="artboard-1-copy-2-100-removebg-icon1" alt=""
-          src="./public/artboard-1-copy-2100removebgpreview-1-1@2x.png" />
+          src="./public/artboard-1-copy-2100removebgpreview-1-1@2x.png" /> */}
       </section>
       
       <section className="frame-container">
